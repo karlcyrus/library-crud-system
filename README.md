@@ -1,0 +1,1 @@
+This is a simple Library System that provides CRUD (Create, Read, Update, Delete) functionality, allowing you to manage library records efficiently. The project features a dynamic and visually appealing design using the particles.js library, which adds a particle background effect to the user interface. You can add, view, update, and delete records in the system. 
